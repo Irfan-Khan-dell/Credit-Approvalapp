@@ -29,8 +29,8 @@ By analyzing key financial factors—such as CIBIL score, recent delinquencies, 
 * **Data Processing:** Pandas, NumPy
 
 ### 📂 Project Structure
-```text
-/Credit-Risk-App
+
+/credit-approval-app
 │
 ├── app.py                    # Main Streamlit application
 ├── credit_model_simple.pkl   # Pre-trained ML model (Random Forest)
