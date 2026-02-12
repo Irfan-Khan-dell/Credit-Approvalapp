@@ -35,6 +35,7 @@ By analyzing key financial factors—such as CIBIL score, recent delinquencies, 
 ├── app.py                    # Main Streamlit application
 ├── credit_model_simple.pkl   # Pre-trained ML model (Random Forest)
 ├── requirements.txt          # List of dependencies
+|--Retrain.py #for upgrading our model path
 README.md                 # Project documentation
 
 
